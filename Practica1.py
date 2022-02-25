@@ -1,4 +1,4 @@
-
+import math
 #Declaración de variables
 x = math.pi/8
 n = 0
